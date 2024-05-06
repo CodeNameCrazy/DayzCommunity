@@ -36,3 +36,9 @@ jobs:
         server: test
         username: ni10518519_1
         password: ${{ secrets.ftp_Pass }}
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          **/readme*
+          **/dayzps/**
