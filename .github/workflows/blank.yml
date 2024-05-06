@@ -33,6 +33,13 @@ jobs:
       - name: Push files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: test
+        server: ftp://ni10518519_1:hp9HVHsb@usmi161.gamedata.io/
         username: ni10518519_1
         password: ${{ secrets.ftp_Pass }}
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          **/readme*
+          **/dayzps/**
+          **/restart.log
