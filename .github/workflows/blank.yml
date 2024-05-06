@@ -32,6 +32,8 @@ jobs:
           server: ftp://ni10518519_1:hp9HVHsb@usmi161.gamedata.io/
           username: ni10518519_1
           password: ${{ secrets.ftp_Pass }}
+          dry-run: true
+          port: 21
           exclude: |
             **/.git*
             **/.git*/**
