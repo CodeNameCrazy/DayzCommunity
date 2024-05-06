@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <message>
+        <delay>30</delay>
+        <repeat>50</repeat>
+        <onconnect>1</onconnect>
+        <text>I Love You Anna Chellew, Hope you enjoy this personal server.</text>
+    </message>
 <messages>
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
