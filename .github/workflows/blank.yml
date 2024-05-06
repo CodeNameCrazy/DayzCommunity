@@ -42,3 +42,4 @@ jobs:
           **/node_modules/**
           **/readme*
           **/dayzps/**
+          **/restart.log
