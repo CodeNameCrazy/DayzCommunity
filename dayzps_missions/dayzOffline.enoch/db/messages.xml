@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     <message>
-        <delay>30</delay>
-        <repeat>50</repeat>
+        <delay>1</delay>
+        <repeat>1</repeat>
         <onconnect>1</onconnect>
         <text>I Love You Anna Chellew, Hope you enjoy this personal server.</text>
     </message>
