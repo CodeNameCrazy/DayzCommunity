@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <playerspawnpoints>
     <fresh>
         <spawn_params>
@@ -25,10 +25,7 @@
             <counter>-1</counter>
         </group_params>
         <generator_posbubbles>
-            <group name="VehicleTesting" lifetime="240" counter="-1">
-                <pos x="3263.912597" z="12382.653321" />
-            </group>
-            <!-- <group name="EastTopolin" lifetime="240" counter="-1">
+            <group name="EastTopolin" lifetime="240" counter="-1">
                 <pos x="1136.605957" z="8039.599609" />
                 <pos x="1155.781128" z="7771.263184" />
                 <pos x="1050.992432" z="7407.925781" />
@@ -114,7 +111,7 @@
                 <pos x="6395.188477" z="10409.898438" />
                 <pos x="6190.791504" z="10452.539063" />
                 <pos x="6194.955078" z="10201.043945" />
-            </group> -->
+            </group>
         </generator_posbubbles>
     </fresh>
     <hop>

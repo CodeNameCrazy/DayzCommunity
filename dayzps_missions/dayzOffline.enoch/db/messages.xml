@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    
+<messages>
     <message>
         <delay>1</delay>
         <repeat>1</repeat>
         <onconnect>1</onconnect>
         <text>I Love You Anna Chellew, Hope you enjoy this personal server.</text>
     </message>
-<messages>
+    <message>
+        <delay>2</delay>
+        <repeat>2</repeat>
+        <onconnect>1</onconnect>
+        <text>You are My favorite person in the whole wide world, you are a Sexy, smart, strong woman i am lucky to call my wife.</text>
+    </message>
+
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 
