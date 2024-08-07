@@ -29,11 +29,14 @@ jobs:
       - name: Push files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          server: ftp://ni10518519_1:hp9HVHsb@usmi161.gamedata.io/
+          server: ftp://ni10518519_2:hp9HVHsb@usmi068.gamedata.io
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
           dry-run: true
           port: ${{ secrets.FTP_PORT }}
+          protocol: ftps
+          local-dir: ./dayzps_missions/dayzOffline.enoch/
+          server-dir: ./dayzps_missions/dayzOffline.enoch/
           exclude: |
             **/.git*
             **/.git*/**
