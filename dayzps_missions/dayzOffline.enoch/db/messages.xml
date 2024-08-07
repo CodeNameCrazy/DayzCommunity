@@ -13,6 +13,12 @@
         <onconnect>1</onconnect>
         <text>I am working to create a collaborative community server, where players can have direct access to the code.</text>
     </message>
+    <message>
+        <delay>3</delay>
+        <repeat>3</repeat>
+        <onconnect>1</onconnect>
+        <text>once we have 7 active players, I will open the slots up to more.</text>
+    </message>
 
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
