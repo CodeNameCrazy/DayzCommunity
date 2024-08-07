@@ -3069,20 +3069,10 @@
 	<type name="OffroadHatchback">
 		<cargo chance="1.00">
 			<item name="JerryCan" chance="1.0" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Canteen" chance="1.0" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Canteen" chance="1.0" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Canteen" chance="1.0" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Canteen" chance="1.0" />
-		</cargo>
-		<cargo chance="1.00">
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
@@ -3922,6 +3912,7 @@
 		<cargo chance="1.00">
 			<item name="Canteen" chance="1.0" />
 		</cargo>
+		
 		<cargo chance="1.00">
 			<item name="AmmoBox" chance="1.0" />
 		</cargo>
@@ -3996,6 +3987,8 @@
 			<item name="HandSaw" chance="1.0"/>
 			<item name="TacticalBaconCan" chance="1.0"/>
 			<item name="TacticalBaconCan" chance="1.0"/>
+			<item name="CombinationLoc4" chance="1.0"/>
+			<item name="CombinationLoc4" chance="1.0"/>
 		</cargo>
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
@@ -4062,6 +4055,8 @@
 			<item name="HandSaw" chance="1.0"/>
 			<item name="TacticalBaconCan" chance="1.0"/>
 			<item name="TacticalBaconCan" chance="1.0"/>
+			<item name="CombinationLoc4" chance="1.0"/>
+			<item name="CombinationLoc4" chance="1.0"/>
 		</cargo>
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
@@ -4128,6 +4123,8 @@
 			<item name="HandSaw" chance="1.0"/>
 			<item name="TacticalBaconCan" chance="1.0"/>
 			<item name="TacticalBaconCan" chance="1.0"/>
+			<item name="CombinationLoc4" chance="1.0"/>
+			<item name="CombinationLoc4" chance="1.0"/>
 		</cargo>
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
