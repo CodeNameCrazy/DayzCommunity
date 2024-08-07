@@ -2,8 +2,8 @@
 	"version": 122,
 	"GeneralData":
 	{
-		"disableBaseDamage": false,
-		"disableContainerDamage": false,
+		"disableBaseDamage": true,
+		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
@@ -59,23 +59,23 @@
 	{
 		"HologramData":
 		{
-			"disableIsCollidingBBoxCheck": false,
-			"disableIsCollidingPlayerCheck": false,
-			"disableIsClippingRoofCheck": false,
-			"disableIsBaseViableCheck": false,
-			"disableIsCollidingGPlotCheck": false,
-			"disableIsCollidingAngleCheck": false,
-			"disableIsPlacementPermittedCheck": false,
-			"disableHeightPlacementCheck": false,
+			"disableIsCollidingBBoxCheck": true,
+			"disableIsCollidingPlayerCheck": true,
+			"disableIsClippingRoofCheck": true,
+			"disableIsBaseViableCheck": true,
+			"disableIsCollidingGPlotCheck": true,
+			"disableIsCollidingAngleCheck": true,
+			"disableIsPlacementPermittedCheck": true,
+			"disableHeightPlacementCheck": true,
 			"disableIsUnderwaterCheck": false,
-			"disableIsInTerrainCheck": false,
+			"disableIsInTerrainCheck": true,
 			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
 		},
 		"ConstructionData":
 		{
-			"disablePerformRoofCheck": false,
-			"disableIsCollidingCheck": false,
-			"disableDistanceCheck": false
+			"disablePerformRoofCheck": true,
+			"disableIsCollidingCheck": true,
+			"disableDistanceCheck": true
 		}
 	},
 	"UIData":

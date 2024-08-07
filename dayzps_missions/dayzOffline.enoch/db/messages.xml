@@ -5,13 +5,19 @@
         <delay>1</delay>
         <repeat>1</repeat>
         <onconnect>1</onconnect>
-        <text>I Love You Anna Chellew, Hope you enjoy this personal server.</text>
+        <text>Welcome To Zero Gear Fear. Discord at https://discord.gg/5XdhEgBQ</text>
     </message>
     <message>
         <delay>2</delay>
         <repeat>2</repeat>
         <onconnect>1</onconnect>
-        <text>You are My favorite person in the whole wide world, you are a Sexy, smart, strong woman i am lucky to call my wife.</text>
+        <text>I am working to create a collaborative community server, where players can have direct access to the code.</text>
+    </message>
+    <message>
+        <delay>3</delay>
+        <repeat>3</repeat>
+        <onconnect>1</onconnect>
+        <text>once we have 7 active players, I will open the slots up to more.</text>
     </message>
 
 <!--
