@@ -3978,9 +3978,6 @@
 		<cargo>
 			<item name="CarTent" chance="1.0" />
 		</cargo>
-		<cargo>
-			<item name="M4A1" chance="1.0" />
-		</cargo>
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
