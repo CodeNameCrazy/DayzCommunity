@@ -3968,26 +3968,68 @@
 	<type name="Truck_01_Covered">
 		<cargo>
 			<item name="CarTent" chance="1.0" />
+		</cargo>
+		<cargo>
 			<item name="LargeTent" chance="1.0" />
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="FenceKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="FenceKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="WatchtowerKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Hatchet" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="HandSaw" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="HandSaw" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="TacticalBaconCan" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="TacticalBaconCan" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="CombinationLoc4" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="CombinationLoc4" chance="1.0"/>
 		</cargo>
 		<attachments chance="1.00">
@@ -4036,26 +4078,68 @@
 	<type name="Truck_01_Covered_Blue">
 		<cargo>
 			<item name="CarTent" chance="1.0" />
+		</cargo>
+		<cargo>
 			<item name="LargeTent" chance="1.0" />
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="FenceKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="FenceKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="WatchtowerKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Hatchet" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="HandSaw" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="HandSaw" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="TacticalBaconCan" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="TacticalBaconCan" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="CombinationLoc4" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="CombinationLoc4" chance="1.0"/>
 		</cargo>
 		<attachments chance="1.00">
@@ -4104,26 +4188,68 @@
 	<type name="Truck_01_Covered_Orange">
 		<cargo>
 			<item name="CarTent" chance="1.0" />
+		</cargo>
+		<cargo>
 			<item name="LargeTent" chance="1.0" />
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Nail" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="FenceKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="FenceKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="WatchtowerKit" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Hatchet" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="Whetstone" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="HandSaw" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="HandSaw" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="TacticalBaconCan" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="TacticalBaconCan" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="CombinationLoc4" chance="1.0"/>
+		</cargo>
+		<cargo>
 			<item name="CombinationLoc4" chance="1.0"/>
 		</cargo>
 		<attachments chance="1.00">
