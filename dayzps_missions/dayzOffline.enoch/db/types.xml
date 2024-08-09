@@ -934,43 +934,97 @@
         <usage name="School" />
     </type>
     <type name="AliceBag_Black">
-        <nominal>3</nominal>
+        <nominal>33</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>13</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
             crafted="0" deloot="1" />
         <category name="containers" />
-        <usage name="Military" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="AliceBag_Camo">
-        <nominal>3</nominal>
+        <nominal>33</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>11</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
             crafted="0" deloot="1" />
         <category name="containers" />
-        <usage name="Military" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="AliceBag_Green">
-        <nominal>3</nominal>
+        <nominal>33</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>11</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
             crafted="0" deloot="1" />
         <category name="containers" />
-        <usage name="Military" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="AmmoBox">
         <nominal>40</nominal>
@@ -3260,109 +3314,221 @@
         <category name="clothes" />
     </type>
     <type name="ArmyPouch_Beige">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
         <value name="Tier1" />
         <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="ArmyPouch_Black">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Military" />
         <value name="Tier1" />
         <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="ArmyPouch_Camo">
-        <nominal>4</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Military" />
         <value name="Tier1" />
         <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="ArmyPouch_Green">
-        <nominal>6</nominal>
+        <nominal>16</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
         <value name="Tier1" />
         <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="AssaultBag_Black">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Military" />
+        <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="AssaultBag_Green">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Military" />
+        <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="AssaultBag_Ttsko">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Military" />
+        <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="AthleticShoes_Black">
         <nominal>3</nominal>
@@ -9181,16 +9347,35 @@
         <usage name="Village" />
     </type>
     <type name="FurCourierBag">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="1" deloot="0" />
         <category name="containers" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="FurImprovisedBag">
         <nominal>0</nominal>
@@ -11623,34 +11808,66 @@
         <usage name="Hunting" />
     </type>
     <type name="HuntingBag">
-        <nominal>5</nominal>
+        <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="HuntingBag_Hannah">
-        <nominal>1</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>43200</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Underground" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="HuntingJacket_Autumn">
         <nominal>8</nominal>
@@ -13780,25 +13997,25 @@
             crafted="0" deloot="0" />
         <category name="weapons" />
         <tag name="shelves" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="M4_T3NRDSOptic">
         <nominal>10</nominal>
@@ -13905,15 +14122,15 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Prison"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Prison" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Underground" />
     </type>
     <type name="M9A1_Bayonet">
         <nominal>10</nominal>
@@ -13957,25 +14174,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-<value name="Tier2"/>
-<value name="Tier3"/>
-<usage name="Military"/>
-<usage name="Police"/>
-<usage name="Medic"/>
-<usage name="Firefighter"/>
-<usage name="Industrial"/>
-<usage name="Coast"/>
-<usage name="Town"/>
-<usage name="Village"/>
-<usage name="Hunting"/>
-<usage name="Office"/>
-<usage name="Prison"/>
-<usage name="SeasonalEvent"/>
-<usage name="ContaminatedArea"/>
-<usage name="Special"/>
-<usage name="Lunapark"/>
-<usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="MP5_Compensator">
         <nominal>8</nominal>
@@ -14116,25 +14333,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_AK74_30Rnd">
         <nominal>8</nominal>
@@ -14147,25 +14364,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_AK74_45Rnd">
         <nominal>1</nominal>
@@ -14178,25 +14395,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_AKM_30Rnd">
         <nominal>4</nominal>
@@ -14209,25 +14426,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_AKM_Drum75Rnd">
         <nominal>5</nominal>
@@ -14240,25 +14457,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1"
             crafted="0" deloot="1" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_AKM_Palm30Rnd">
         <nominal>4</nominal>
@@ -14271,25 +14488,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_Aug_30Rnd">
         <nominal>5</nominal>
@@ -14302,25 +14519,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_CMAG_10Rnd">
         <nominal>30</nominal>
@@ -14333,25 +14550,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_CMAG_20Rnd">
         <nominal>30</nominal>
@@ -14364,25 +14581,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_CMAG_30Rnd">
         <nominal>34</nominal>
@@ -14395,25 +14612,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_CMAG_40Rnd">
         <nominal>30</nominal>
@@ -14426,25 +14643,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_CZ527_5rnd">
         <nominal>13</nominal>
@@ -14531,25 +14748,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="1" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_FAMAS_25Rnd">
         <nominal>5</nominal>
@@ -14562,25 +14779,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_FNX45_15Rnd">
         <nominal>20</nominal>
@@ -14593,25 +14810,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="Prison"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-        <usage name="Special"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Lunapark" />
+        <usage name="Underground" />
     </type>
     <type name="Mag_Glock_15Rnd">
         <nominal>15</nominal>
@@ -15959,64 +16176,128 @@
         <usage name="Village" />
     </type>
     <type name="MountainBag_Blue">
-        <nominal>3</nominal>
+        <nominal>23</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>11</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Village" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="MountainBag_Green">
-        <nominal>3</nominal>
+        <nominal>23</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Village" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="MountainBag_Orange">
-        <nominal>3</nominal>
+        <nominal>23</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Village" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="MountainBag_Red">
-        <nominal>3</nominal>
+        <nominal>23</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Village" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="MouthRag">
         <nominal>0</nominal>
@@ -16062,23 +16343,41 @@
         <usage name="Underground" />
     </type>
     <type name="NBCBootsGray">
-        <nominal>2</nominal>
+        <nominal>22</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="NBCBootsYellow">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16086,27 +16385,62 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="floor" />
-        <usage name="Medic" />
-        <usage name="Firefighter" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="NBCGlovesGray">
-        <nominal>2</nominal>
+        <nominal>22</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="NBCGlovesYellow">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16114,27 +16448,62 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="floor" />
-        <usage name="Medic" />
-        <usage name="Firefighter" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="NBCHoodGray">
-        <nominal>2</nominal>
+        <nominal>22</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="clothes" />
-        <usage name="Underground" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="NBCHoodYellow">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16142,7 +16511,6 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="floor" />
-        <usage name="Medic" />
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
@@ -16164,10 +16532,10 @@
         <usage name="Underground" />
     </type>
     <type name="NBCJacketGray">
-        <nominal>2</nominal>
+        <nominal>22</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16195,10 +16563,10 @@
         <usage name="Underground" />
     </type>
     <type name="NBCJacketYellow">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16210,10 +16578,10 @@
         <usage name="Firefighter" />
     </type>
     <type name="NBCPantsGray">
-        <nominal>2</nominal>
+        <nominal>22</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16241,10 +16609,10 @@
         <usage name="Underground" />
     </type>
     <type name="NBCPantsYellow">
-        <nominal>4</nominal>
+        <nominal>24</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16252,8 +16620,25 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <tag name="floor" />
-        <usage name="Medic" />
-        <usage name="Firefighter" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="NVGHeadstrap">
         <nominal>35</nominal>
@@ -16266,9 +16651,25 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
-        <usage name="Military" />
-        <value name="Tier2" />
-        <value name="Tier3" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="NVGoggles">
         <nominal>40</nominal>
@@ -16281,7 +16682,16 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1"
             crafted="0" deloot="1" />
         <category name="weapons" />
-        <usage name="Military" />
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Underground"/>
     </type>
     <type name="Nail">
         <nominal>0</nominal>

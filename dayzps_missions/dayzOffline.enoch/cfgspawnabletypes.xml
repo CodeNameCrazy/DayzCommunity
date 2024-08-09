@@ -3159,9 +3159,6 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3236,9 +3233,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3307,9 +3302,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3379,9 +3372,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3456,9 +3447,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3533,9 +3522,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3611,9 +3598,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3687,9 +3672,6 @@
 		</cargo>
 		<cargo>
 			<item name="Canteen" chance="1.0" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3765,9 +3747,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3843,9 +3823,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3920,9 +3898,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -3997,9 +3973,7 @@
 		<cargo>
 			<item name="Canteen" chance="1.0" />
 		</cargo>
-		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
-		</cargo>
+		
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
 		</cargo>
@@ -4161,6 +4135,18 @@
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Blue">
 		<cargo>
@@ -4271,6 +4257,18 @@
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1_Blue" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Orange">
 		<cargo>
@@ -4380,6 +4378,18 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
 		</attachments>
 	</type>
 	<!--
