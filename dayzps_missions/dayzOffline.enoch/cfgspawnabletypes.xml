@@ -3160,7 +3160,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3237,7 +3376,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3308,7 +3586,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3380,7 +3797,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3457,7 +4013,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3534,7 +4229,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3612,7 +4446,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3689,7 +4662,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3766,7 +4878,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3844,7 +5095,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3921,7 +5311,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -3998,7 +5527,146 @@
 			<item name="Canteen" chance="1.0" />
 		</cargo>
 		<cargo chance="1.00">
-			<item name="AmmoBox" chance="1.0" />
+			<item name="AmmoBox" chance="1.0">
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_9x39AP_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308Win_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_308WinTracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x54Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_545x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_545x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_556x45_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_556x45Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="0.5">
+					<item name="AmmoBox_762x39_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="AmmoBox_762x39Tracer_20Rnd" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_ChemGas" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Black" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Red" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_White" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Smoke_Green" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.0">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+				<cargo chance="1.00">
+					<item name="Ammo_40mm_Explosive" />
+				</cargo>
+			</item>
 		</cargo>
 		<cargo>
 			<item name="MediumTent_Green" chance="1.0"/>
@@ -4161,6 +5829,18 @@
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Blue">
 		<cargo>
@@ -4271,6 +5951,18 @@
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1_Blue" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Orange">
 		<cargo>
@@ -4380,6 +6072,18 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Truck_01_Door_2_1_Orange" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Blue" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Red" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Barrel_Yellow" chance="1.00" />
 		</attachments>
 	</type>
 	<!--
