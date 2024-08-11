@@ -3067,7 +3067,7 @@
 
 	<!-- VEHICLES -->
 	<type name="OffroadHatchback">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3138,7 +3138,7 @@
 		</attachments>
 	</type>
 	<type name="Offroad_02">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3207,12 +3207,12 @@
 		<attachments chance="1.00">
 			<item name="CarBattery" chance="1.00" />
 		</attachments>
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 	</type>
 	<type name="OffroadHatchback_Blue">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3281,7 +3281,7 @@
 		</attachments>
 	</type>
 	<type name="OffroadHatchback_White">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3351,7 +3351,7 @@
 	</type>
 	<!-- -->
 	<type name="CivilianSedan">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3426,7 +3426,7 @@
 		</attachments>
 	</type>
 	<type name="CivilianSedan_Wine">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3501,7 +3501,7 @@
 		</attachments>
 	</type>
 	<type name="CivilianSedan_Black">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3577,7 +3577,7 @@
 	</type>
 	<!-- -->
 	<type name="Hatchback_02">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3652,7 +3652,7 @@
 		</attachments>
 	</type>
 	<type name="Hatchback_02_Black">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3726,7 +3726,7 @@
 		</attachments>
 	</type>
 	<type name="Hatchback_02_Blue">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3802,7 +3802,7 @@
 	</type>
 	<!-- -->
 	<type name="Sedan_02">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3877,7 +3877,7 @@
 		</attachments>
 	</type>
 	<type name="Sedan_02_Red">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
@@ -3952,7 +3952,7 @@
 		</attachments>
 	</type>
 	<type name="Sedan_02_Grey">
-		<cargo chance="1.00">
+		<cargo>
 			<item name="JerryCan" chance="1.0" />
 		</cargo>
 		<cargo>
