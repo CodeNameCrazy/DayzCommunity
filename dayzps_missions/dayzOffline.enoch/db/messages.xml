@@ -2,6 +2,12 @@
     
 <messages>
     <message>
+        <delay>3</delay>
+        <repeat>2</repeat>
+        <onconnect>3</onconnect>
+        <text>Hey De4mo1ni2c412, Welcome to the server, I will be reseting the server a bit.</text>
+    </message>
+    <message>
         <delay>7</delay>
         <repeat>3</repeat>
         <onconnect>1</onconnect>
