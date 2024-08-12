@@ -22359,7 +22359,7 @@
         <category name="tools" />
         <usage name="Industrial" />
     </type>
-    <type name="Truck_01_Covered">
+    <type name="_01_Covered">
         <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>0</restock>
