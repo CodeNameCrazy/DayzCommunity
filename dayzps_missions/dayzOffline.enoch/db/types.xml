@@ -5401,8 +5401,24 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="Hunting" />
-        <value name="Tier3" />
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Medic"/>
+        <usage name="Firefighter"/>
+        <usage name="Industrial"/>
+        <usage name="Coast"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Office"/>
+        <usage name="Prison"/>
+        <usage name="SeasonalEvent"/>
+        <usage name="ContaminatedArea"/>
+        <usage name="Special"/>
+        <usage name="Lunapark"/>
+        <usage name="Underground"/>
     </type>
     <type name="CZ61">
         <nominal>50</nominal>
