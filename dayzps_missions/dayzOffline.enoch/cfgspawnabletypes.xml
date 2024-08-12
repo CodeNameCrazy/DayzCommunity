@@ -2383,8 +2383,8 @@
 	</type>
 	<type name="ASVAL">
 		<attachments chance="1.00">
-			<item name="Mag_VSS_10Rnd" chance="1.00" />
-			<item name="Mag_VAL_20Rnd" chance="1.00" />
+			<item name="Mag_VSS_10Rnd" chance="0.00" />
+			<item name="Mag_VAL_20Rnd" chance="0.00" />
 			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
