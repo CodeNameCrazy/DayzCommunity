@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-    
+
 <messages>
     <message>
         <delay>3</delay>
         <repeat>2</repeat>
         <onconnect>3</onconnect>
-        <text>Server Owner lostinzen here, DM my psn until I have discord up.</text>
+        <text>Would appreciate feedback, start a discussion on our discord channel.</text>
     </message>
     <message>
         <delay>7</delay>
         <repeat>3</repeat>
         <onconnect>1</onconnect>
-        <!-- <text>Welcome To Zero Gear Fear. Discord at https://discord.gg/5XdhEgBQ</text> -->
-        <text>Welcome To Zero Gear Fear(Trial Period). Discord coming soon.</text>
+        <text>Welcome To Zero Gear Fear. Discord at https://discord.gg/5XdhEgBQ</text>
     </message>
     <message>
         <delay>7</delay>
         <repeat>3</repeat>
         <onconnect>2</onconnect>
-        <text>I am working to create a collaborative community server, where players can have direct access to the code.</text>
+        <text>I am working to create a collaborative community server, where players can have direct
+            access to the code.</text>
     </message>
     <message>
-        <delay>7</delay>
-        <repeat>3</repeat>
-        <onconnect>3</onconnect>
-        <text>once we have 7 active players, I will open the slots up to more.</text>
+        <deadline>600</deadline>
+        <shutdown>1</shutdown>
+        <text>This server (#name) will shutdown in #tmin minutes.</text>
     </message>
 
-<!--
+    <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 
 Example messages:
