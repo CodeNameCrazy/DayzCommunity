@@ -45,10 +45,10 @@
         <usage name="Special" />
     </type>
     <type name="AK101">
-        <nominal>150</nominal>
+        <nominal>135</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>130</min>
+        <min>115</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -67,10 +67,10 @@
         <usage name="Special" />
     </type>
     <type name="AK101_Black">
-        <nominal>150</nominal>
+        <nominal>135</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>130</min>
+        <restock>3600</restock>
+        <min>115</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -89,10 +89,10 @@
         <usage name="Special" />
     </type>
     <type name="AK101_Green">
-        <nominal>150</nominal>
+        <nominal>135</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>130</min>
+        <restock>3600</restock>
+        <min>115</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -111,10 +111,10 @@
         <usage name="Special" />
     </type>
     <type name="AK74">
-        <nominal>150</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>80</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -133,10 +133,10 @@
         <usage name="Special" />
     </type>
     <type name="AK74_Black">
-        <nominal>150</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>80</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -155,10 +155,10 @@
         <usage name="Special" />
     </type>
     <type name="AK74_Green">
-        <nominal>150</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>80</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -243,10 +243,10 @@
         <usage name="Special" />
     </type>
     <type name="AKS74U">
-        <nominal>150</nominal>
+        <nominal>111</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>70</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -265,10 +265,10 @@
         <usage name="Special" />
     </type>
     <type name="AKS74U_Black">
-        <nominal>150</nominal>
+        <nominal>111</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>70</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -309,10 +309,10 @@
         <usage name="Special" />
     </type>
     <type name="AKS74U_Green">
-        <nominal>150</nominal>
+        <nominal>111</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>70</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3440,10 +3440,10 @@
         <usage name="Village" />
     </type>
     <type name="Aug">
-        <nominal>150</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>130</min>
+        <min>70</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3462,10 +3462,10 @@
         <usage name="Special" />
     </type>
     <type name="AugShort">
-        <nominal>150</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>130</min>
+        <min>70</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3512,10 +3512,10 @@
         <usage name="Town" />
     </type>
     <type name="B95">
-        <nominal>150</nominal>
+        <nominal>144</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>124</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -5233,10 +5233,10 @@
         <category name="tools" />
     </type>
     <type name="CZ527">
-        <nominal>150</nominal>
+        <nominal>140</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>120</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -5287,10 +5287,10 @@
         <usage name="Underground"/>
     </type>
     <type name="CZ61">
-        <nominal>150</nominal>
+        <nominal>90</nominal>
         <lifetime>7200</lifetime>
         <restock>180</restock>
-        <min>130</min>
+        <min>50</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -6764,10 +6764,10 @@
         <usage name="Village" />
     </type>
     <type name="Colt1911">
-        <nominal>120</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>110</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7441,10 +7441,10 @@
         <category name="food" />
     </type>
     <type name="Deagle">
-        <nominal>150</nominal>
+        <nominal>120</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>90</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7534,10 +7534,10 @@
         <category name="weapons" />
     </type>
     <type name="Derringer_Grey">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -7549,10 +7549,10 @@
         <value name="Tier2" />
     </type>
     <type name="Derringer_Pink">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>15</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -8037,10 +8037,10 @@
         <usage name="Industrial" />
     </type>
     <type name="Engraved1911">
-        <nominal>3</nominal>
+        <nominal>15</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>5</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -9873,10 +9873,10 @@
         <category name="tools" />
     </type>
     <type name="Glock19">
-        <nominal>135</nominal>
+        <nominal>75</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>120</min>
+        <min>50</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12071,10 +12071,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
-        <usage name="Police" />
-        <usage name="Medic" />
-        <usage name="Firefighter" />
         <usage name="Industrial" />
         <usage name="Coast" />
         <usage name="Town" />
@@ -12102,11 +12098,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
-        <usage name="Police" />
-        <usage name="Medic" />
-        <usage name="Firefighter" />
-        <usage name="Industrial" />
         <usage name="Coast" />
         <usage name="Town" />
         <usage name="Village" />
@@ -13694,10 +13685,10 @@
         <category name="food" />
     </type>
     <type name="M16A2">
-        <nominal>150</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>80</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -16061,10 +16052,10 @@
         <usage name="Medic" />
     </type>
     <type name="Mosin9130">
-        <nominal>150</nominal>
+        <nominal>110</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>90</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -16410,10 +16401,10 @@
         <category name="tools" />
     </type>
     <type name="Mp133Shotgun">
-        <nominal>115</nominal>
+        <nominal>75</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>110</min>
+        <min>50</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -19333,10 +19324,10 @@
         <value name="Tier1" />
     </type>
     <type name="SKS">
-        <nominal>150</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>130</min>
+        <min>50</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -19424,10 +19415,10 @@
 
     </type>
     <type name="Saiga">
-        <nominal>115</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>112</min>
+        <min>80</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -19704,10 +19695,10 @@
         <category name="food" />
     </type>
     <type name="Scout">
-        <nominal>140</nominal>
+        <nominal>75</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>125</min>
+        <min>25</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -21340,10 +21331,10 @@
         <usage name="Military" />
     </type>
     <type name="StarlightOptic">
-        <nominal>1</nominal>
+        <nominal>25</nominal>
         <lifetime>5400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -22991,10 +22982,10 @@
         <usage name="Military" />
     </type>
     <type name="UMP45">
-        <nominal>110</nominal>
+        <nominal>90</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>97</min>
+        <min>60</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -23190,10 +23181,10 @@
         <usage name="Special" />
     </type>
     <type name="Vikhr">
-        <nominal>117</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>94</min>
+        <min>80</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
