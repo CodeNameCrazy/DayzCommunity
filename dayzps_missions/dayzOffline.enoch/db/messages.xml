@@ -21,9 +21,9 @@
             access to the code.</text>
     </message>
     <message>
-        <deadline>600</deadline>
-        <shutdown>1</shutdown>
-        <text>This server (#name) will shutdown in #tmin minutes.</text>
+        <delay>8</delay>
+        <repeat>3</repeat>
+        <text>The server will restart at 0000 0600 1200 1800 every day.</text>
     </message>
 
     <!--
