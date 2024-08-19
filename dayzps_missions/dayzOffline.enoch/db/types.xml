@@ -902,10 +902,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_00buck_10rnd">
-        <nominal>40</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -916,10 +916,10 @@
         <usage name="Hunting" />
     </type>
     <type name="AmmoBox_12gaRubberSlug_10Rnd">
-        <nominal>7</nominal>
+        <nominal>80</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>14</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -929,10 +929,10 @@
         <usage name="Police" />
     </type>
     <type name="AmmoBox_12gaSlug_10Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -943,10 +943,10 @@
         <usage name="Hunting" />
     </type>
     <type name="AmmoBox_22_50Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -974,10 +974,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_308WinTracer_20Rnd">
-        <nominal>28</nominal>
+        <nominal>38</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>13</min>
+        <min>23</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1005,10 +1005,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_308Win_20Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1036,10 +1036,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_357_20Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1067,10 +1067,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_380_35rnd">
-        <nominal>25</nominal>
+        <nominal>35</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1098,10 +1098,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_45ACP_25rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1129,10 +1129,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_545x39Tracer_20Rnd">
-        <nominal>32</nominal>
+        <nominal>42</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>17</min>
+        <min>27</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1161,10 +1161,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_545x39_20Rnd">
-        <nominal>37</nominal>
+        <nominal>47</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1193,10 +1193,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_556x45Tracer_20Rnd">
-        <nominal>34</nominal>
+        <nominal>44</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>14</min>
+        <min>24</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1224,10 +1224,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_556x45_20Rnd">
-        <nominal>43</nominal>
+        <nominal>53</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1255,10 +1255,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_762x39Tracer_20Rnd">
-        <nominal>37</nominal>
+        <nominal>47</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>13</min>
+        <min>23</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1286,10 +1286,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_762x39_20Rnd">
-        <nominal>31</nominal>
+        <nominal>41</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>16</min>
+        <min>26</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1317,10 +1317,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
-        <nominal>27</nominal>
+        <nominal>37</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>13</min>
+        <min>23</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1348,10 +1348,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_762x54_20Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>28</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1379,10 +1379,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_9x19_25rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>17</min>
+        <min>27</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1410,10 +1410,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>22</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1441,10 +1441,10 @@
         <usage name="Underground" />
     </type>
     <type name="AmmoBox_9x39_20Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>13</min>
+        <min>23</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13772,10 +13772,10 @@
         <usage name="Military" />
     </type>
     <type name="M4A1">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>45</min>
+        <min>65</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13794,10 +13794,10 @@
         <usage name="Special" />
     </type>
     <type name="M4A1_Black">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>45</min>
+        <min>65</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13816,10 +13816,10 @@
         <usage name="Special" />
     </type>
     <type name="M4A1_Green">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>45</min>
+        <min>65</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
