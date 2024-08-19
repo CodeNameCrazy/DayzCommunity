@@ -7454,7 +7454,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
         <usage name="Prison" />
@@ -7476,7 +7475,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
         <usage name="Prison" />
@@ -12598,10 +12596,10 @@
         <category name="clothes" />
     </type>
     <type name="LandMineTrap">
-        <nominal>10</nominal>
+        <nominal>50</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14114,10 +14112,10 @@
         <usage name="Military" />
     </type>
     <type name="M67Grenade">
-        <nominal>15</nominal>
+        <nominal>55</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16414,7 +16412,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
         <usage name="Prison" />
@@ -17269,7 +17266,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
         <usage name="Prison" />
@@ -18868,10 +18864,10 @@
         <usage name="Police" />
     </type>
     <type name="RGD5Grenade">
-        <nominal>25</nominal>
+        <nominal>55</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19708,7 +19704,6 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
         <usage name="Police" />
         <usage name="Hunting" />
         <usage name="Prison" />
