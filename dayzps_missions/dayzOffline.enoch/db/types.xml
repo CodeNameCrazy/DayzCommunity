@@ -785,7 +785,7 @@
         <nominal>33</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>13</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -816,7 +816,7 @@
         <nominal>33</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>11</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -847,7 +847,7 @@
         <nominal>33</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>11</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4458,10 +4458,10 @@
         <usage name="Village" />
     </type>
     <type name="BatteryCharger">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>604800</lifetime>
         <restock>360</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9004,10 +9004,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Altis">
         <nominal>5</nominal>
@@ -9022,10 +9022,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_BabyDeer">
         <nominal>5</nominal>
@@ -9040,10 +9040,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Bear">
         <nominal>5</nominal>
@@ -9058,10 +9058,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Bohemia">
         <nominal>5</nominal>
@@ -9076,10 +9076,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_BrainZ">
         <nominal>5</nominal>
@@ -9094,10 +9094,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_CDF">
         <nominal>5</nominal>
@@ -9112,10 +9112,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_CHEL">
         <nominal>5</nominal>
@@ -9130,10 +9130,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_CMC">
         <nominal>5</nominal>
@@ -9148,10 +9148,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Cannibals">
         <nominal>5</nominal>
@@ -9166,10 +9166,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Chedaki">
         <nominal>5</nominal>
@@ -9184,10 +9184,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Chernarus">
         <nominal>5</nominal>
@@ -9202,10 +9202,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Crook">
         <nominal>5</nominal>
@@ -9220,10 +9220,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_DayZ">
         <nominal>0</nominal>
@@ -9252,10 +9252,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Livonia">
         <nominal>5</nominal>
@@ -9270,10 +9270,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_LivoniaArmy">
         <nominal>5</nominal>
@@ -9288,10 +9288,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_LivoniaPolice">
         <nominal>5</nominal>
@@ -9306,10 +9306,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_NAPA">
         <nominal>5</nominal>
@@ -9324,10 +9324,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_NSahrani">
         <nominal>5</nominal>
@@ -9342,10 +9342,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Pirates">
         <nominal>5</nominal>
@@ -9360,10 +9360,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_RSTA">
         <nominal>5</nominal>
@@ -9378,10 +9378,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Refuge">
         <nominal>5</nominal>
@@ -9396,10 +9396,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Rex">
         <nominal>5</nominal>
@@ -9414,10 +9414,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Rooster">
         <nominal>5</nominal>
@@ -9432,10 +9432,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_SSahrani">
         <nominal>5</nominal>
@@ -9450,10 +9450,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Snake">
         <nominal>5</nominal>
@@ -9468,10 +9468,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_TEC">
         <nominal>5</nominal>
@@ -9486,10 +9486,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_UEC">
         <nominal>5</nominal>
@@ -9504,10 +9504,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_White">
         <nominal>10</nominal>
@@ -9522,10 +9522,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Wolf">
         <nominal>5</nominal>
@@ -9540,10 +9540,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Zagorky">
         <nominal>5</nominal>
@@ -9558,10 +9558,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flag_Zenit">
         <nominal>5</nominal>
@@ -9576,10 +9576,10 @@
         <category name="tools" />
         <usage name="Office" />
         <usage name="School" />
-        <usage name="Industrial"/>
-        <usage name="Coast"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Industrial" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
     </type>
     <type name="Flaregun">
         <nominal>20</nominal>
