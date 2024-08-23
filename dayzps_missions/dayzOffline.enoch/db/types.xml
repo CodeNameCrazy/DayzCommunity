@@ -7172,18 +7172,23 @@
         <usage name="Farm" />
     </type>
     <type name="CombinationLock4">
-        <nominal>35</nominal>
+        <nominal>85</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>60</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
+        <usage name="Firefighter" />
         <usage name="Industrial" />
-        <usage name="Farm" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
     </type>
     <type name="Compass">
         <nominal>0</nominal>
@@ -19451,19 +19456,27 @@
         <category name="clothes" />
     </type>
     <type name="Pliers">
-        <nominal>75</nominal>
+        <nominal>100</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>70</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="0" deloot="0" />
         <category name="tools" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
         <usage name="Industrial" />
-        <usage name="Farm" />
+        <usage name="Coast" />
+        <usage name="Town" />
         <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="Prison" />
     </type>
     <type name="Plum">
         <nominal>0</nominal>
