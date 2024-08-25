@@ -1,18 +1,17 @@
 {
 	"version": 122,
-	"GeneralData":
-	{
+	"GeneralData": {
 		"disableBaseDamage": true,
 		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
-    "PlayerData":
-	{
+	"PlayerData": {
 		"disablePersonalLight": false,
-		"spawnGearPresetFiles": ["custom/loadout.json"],
-		"StaminaData":
-		{
+		"spawnGearPresetFiles": [
+			"custom/loadout.json"
+		],
+		"StaminaData": {
 			"sprintStaminaModifierErc": 0.01,
 			"sprintStaminaModifierCro": 0.01,
 			"staminaWeightLimitThreshold": 6000.0,
@@ -25,14 +24,12 @@
 			"obstacleTraversalStaminaModifier": 1.0,
 			"holdBreathStaminaModifier": 1.0
 		},
-		"ShockHandlingData":
-		{
+		"ShockHandlingData": {
 			"shockRefillSpeedConscious": 5.0,
 			"shockRefillSpeedUnconscious": 1.0,
 			"allowRefillSpeedModifier": true
 		},
-		"MovementData":
-		{
+		"MovementData": {
 			"timeToStrafeJog": 0.1,
 			"rotationSpeedJog": 0.3,
 			"timeToSprint": 0.45,
@@ -40,25 +37,64 @@
 			"rotationSpeedSprint": 0.15,
 			"allowStaminaAffectInertia": true
 		},
-		"DrowningData":
-		{
+		"DrowningData": {
 			"staminaDepletionSpeed": 10.0,
 			"healthDepletionSpeed": 10.0,
 			"shockDepletionSpeed": 10.0
 		}
 	},
-	"WorldsData":
-	{
+	"WorldsData": {
 		"lightingConfig": 0,
-		"objectSpawnersArr": ["/custom/Sobatoka_Shop.json","/custom/Grabin_BuildTable.json","/custom/Grabin_TruckGarage.json","/custom/Sitnik_Build_Table.json","/custom/Spider_Build_Table.json","/custom/Castle_Build_Table.json","custom/Elpingato_Build_Table.json"],
-		"environmentMinTemps": [-7.0, -7.4, -4.1, 1.5, 7.0, 11.3, 13.4, 13.1, 9.3, 5.3, 0.8, -3.6],
-		"environmentMaxTemps": [-2.5, -2.1, 2.3, 9.0, 15.5, 19.4, 20.9, 20.4, 16.0, 10.5, 4.2, 0.1],
-		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
+		"objectSpawnersArr": [
+			"/custom/Sobatoka_Shop.json",
+			"/custom/Grabin_BuildTable.json",
+			"/custom/Grabin_TruckGarage.json",
+			"/custom/Sitnik_Build_Table.json",
+			"/custom/Spider_Build_Table.json",
+			"/custom/Castle_Build_Table.json",
+			"/custom/Elpingato_Build_Table.json",
+			"/custom/Grabin_Shop_Decor.json",
+			"/custom/Grabin_Shop_Left_Center.json",
+			"/custom/Garbin_Shop_Left_Wall.json"
+		],
+		"environmentMinTemps": [
+			-7.0,
+			-7.4,
+			-4.1,
+			1.5,
+			7.0,
+			11.3,
+			13.4,
+			13.1,
+			9.3,
+			5.3,
+			0.8,
+			-3.6
+		],
+		"environmentMaxTemps": [
+			-2.5,
+			-2.1,
+			2.3,
+			9.0,
+			15.5,
+			19.4,
+			20.9,
+			20.4,
+			16.0,
+			10.5,
+			4.2,
+			0.1
+		],
+		"wetnessWeightModifiers": [
+			1.0,
+			1.0,
+			1.33,
+			1.66,
+			2.0
+		]
 	},
-	"BaseBuildingData":
-	{
-		"HologramData":
-		{
+	"BaseBuildingData": {
+		"HologramData": {
 			"disableIsCollidingBBoxCheck": true,
 			"disableIsCollidingPlayerCheck": true,
 			"disableIsClippingRoofCheck": true,
@@ -69,20 +105,21 @@
 			"disableHeightPlacementCheck": true,
 			"disableIsUnderwaterCheck": false,
 			"disableIsInTerrainCheck": true,
-			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
+			"disallowedTypesInUnderground": [
+				"FenceKit",
+				"TerritoryFlagKit",
+				"WatchtowerKit"
+			]
 		},
-		"ConstructionData":
-		{
+		"ConstructionData": {
 			"disablePerformRoofCheck": true,
 			"disableIsCollidingCheck": true,
 			"disableDistanceCheck": true
 		}
 	},
-	"UIData":
-	{
+	"UIData": {
 		"use3DMap": false,
-		"HitIndicationData":
-		{
+		"HitIndicationData": {
 			"hitDirectionOverrideEnabled": false,
 			"hitDirectionBehaviour": 1,
 			"hitDirectionStyle": 0,
@@ -93,8 +130,7 @@
 			"hitIndicationPostProcessEnabled": true
 		}
 	},
-	"MapData":
-	{
+	"MapData": {
 		"ignoreMapOwnership": false,
 		"ignoreNavItemsOwnership": true,
 		"displayPlayerPosition": true,
