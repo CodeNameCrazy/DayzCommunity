@@ -18610,7 +18610,6 @@
         <usage name="Prison" />
         <usage name="SeasonalEvent" />
         <usage name="ContaminatedArea" />
-        <usage name="Special" />
         <usage name="Lunapark" />
         <usage name="Underground" />
     </type>
@@ -18641,7 +18640,6 @@
         <usage name="Prison" />
         <usage name="SeasonalEvent" />
         <usage name="ContaminatedArea" />
-        <usage name="Special" />
         <usage name="Lunapark" />
         <usage name="Underground" />
     </type>
@@ -18698,7 +18696,6 @@
         <usage name="Prison" />
         <usage name="SeasonalEvent" />
         <usage name="ContaminatedArea" />
-        <usage name="Special" />
         <usage name="Lunapark" />
         <usage name="Underground" />
     </type>
