@@ -9051,10 +9051,10 @@
         <usage name="Village" />
     </type>
     <type name="Flag_Bear">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9425,10 +9425,10 @@
         <usage name="Village" />
     </type>
     <type name="Flag_Rooster">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
