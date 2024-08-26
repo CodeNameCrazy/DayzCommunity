@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <eventposdef>
-	<!-- Custom Event Spawn -->
-	<event name="customGunRacks">
-		<!-- Grabin gunrack locations -->
-		 <pos x="10711.5185546875" z="181.11123657226563" a="10989.5029296875" group="Shop_Gun_Racks" />
-		 <pos x="10710.9736328125" z="181.11123657226563" a="10990.0595703125" group="Shop_Gun_Racks" />
-		 <pos x="10710.4287109375" z="181.11123657226563" a="10990.6162109375" group="Shop_Gun_Racks" />
-		 <pos x="10709.8896484375" z="181.11123657226563" a="10991.17578125" group="Shop_Gun_Racks" />
-		 <pos x="10709.3447265625" z="181.11123657226563" a="10991.732421875" group="Shop_Gun_Racks" />
-		<!-- Sobatoka gunrack locations -->
-		<!-- Zalesie gunrack locations -->
-		<!-- Dolnik gunrack locations -->
-	</event>
-	<!-- End Custom Event Spawns -->
+
 	<event name="StaticHeliCrash">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="11844.371094" z="6020.828613" a="357.697601" />

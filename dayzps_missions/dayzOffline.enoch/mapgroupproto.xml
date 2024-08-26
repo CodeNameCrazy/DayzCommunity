@@ -12,47 +12,7 @@
 		<default name="clusterMatrix" de="TrajectoryPear" width="12" height="12" />
 		<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12" />
 	</defaults>
-	<!-- Custom Map Group -->
-	<group name="StaticObj_Misc_Gunrack">
-		<dispatch dechance="1.000000">
-			<proxy type="StaticObj_Misc_Gunrack" pos="0.000976 0.716400 -0.002930" rpy="180 0.0 0.0" dechance="1.0"/>
-			<proxy type="StaticObj_Misc_Gunrack" pos="0.000976 0.715393 0.543945" rpy="180 0.0 0.0" dechance="1.0"/>
-			<proxy type="StaticObj_Misc_Gunrack" pos="0.000976 0.000198 0.543945" rpy="0.0 0.0 0.0" dechance="1.0"/>
-			<proxy type="StaticObj_Misc_Gunrack" pos="0.000976 -0.109848 -0.006836" rpy="0.0 0.0 0.0" dechance="1.0"/>
-			<proxy type="StaticObj_Misc_Gunrack" pos="0.000976 -0.109742 -0.543945" rpy="0.0 0.0 0.0" dechance="1.0"/>
-		</dispatch>
-		<dispatch dechance="1.0" ><proxy type="M79" pos="0.398973 0.064263 -0.309273" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0"><proxy type="M4A1" pos="0.206054 0.053070 0.817382" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="M4A1_Green" pos="0.304687 0.053100 0.806640" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="M4A1_Black" pos="0.413086 0.053070 0.817382" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AKM" pos="0.103515 0.052078 0.851562" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AK74" pos="-0.376953 0.062118 0.885742" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AK74_Black" pos="-0.291016 0.062072 0.886718" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AK74 Green" pos="-0.195313 0.062072 0.886718" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="Aug" pos="0.307617 0.040084 0.562500" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AugShort" pos="0.400390 0.064056 0.553711" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0"><proxy type="FAL" pos="-0.095704 -0.001923 0.867187" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="FAMAS" pos="0.108398 0.125137 0.557617" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="SawedoffFAMAS" pos="0.208007 0.125137 0.557617" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0"><proxy type="AKS74U" pos="-0.288086 0.046997 0.316406" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AKS74U_Black" pos="-0.187501 0.032989 0.316406" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0"><proxy type="AKS74U Green" pos="-0.087891 0.042999 0.316406" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="Winchester70" pos="0.298828 0.015197 0.053711" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="Winchester70_Black" pos="0.199218 0.065170 0.045898" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="Winchester70_Green" pos="0.098632 0.055206 0.048828" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="Mosin9130_Black" pos="0.303711 0.048141 0.317382" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0"><proxy type="Mosin9130 Green" pos="0.200195 0.048111 0.312500" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="Mosin9130_Camo" pos="0.103515 0.048141 0.319336" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="SVD" pos="0.406250 0.032119 0.328125" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="B95 pos=-0.201172 0.076110 -0.242188" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="ASVAL" pos="-0.400391 0.020111 -0.238282" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="VSS" pos="-0.297852 0.000106 -0.238282" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="cz550" pos="-0.103516 -0.025879 -0.208008" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AK101" pos="-0.090821 0.042999 0.607421" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AK101_Black" pos="-0.190430 0.042999 0.617187" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-		<dispatch dechance="1.0" ><proxy type="AK101 Green" pos="-0.282227 0.043075 0.614257" xpу="0.0 0.0 -90.0" dechance="1.0" /></dispatch>
-	</group>
-	<!-- End Custom Map Group -->
+
 	<group name="Land_Roadblock_Table" lootmax="1">
 		<usage name="Military" />
 		<usage name="Police" />
