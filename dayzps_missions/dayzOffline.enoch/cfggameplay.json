@@ -57,7 +57,8 @@
 			"/custom/Grabin_Shop_Left_Center.json",
 			"/custom/Grabin_Shop_Left_Wall.json",
 			"/custom/Grabin_Shop_Back_room.json",
-			"/custom/Grabin_Shop_Gun_Rack.json"
+			"/custom/Grabin_Shop_Gun_Rack.json",
+			"/custom/CaptureTheFlag.json"
 		],
 		"environmentMinTemps": [
 			-7.0,
