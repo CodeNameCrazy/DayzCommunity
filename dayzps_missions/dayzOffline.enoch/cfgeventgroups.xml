@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <eventgroupdef>
     <!--pos x="9994.689" z="11443.961" a="0" y="174.216" group="Train_Abandoned_Grabin"/-->
+
     <group name="Train_Abandoned_Grabin">
         <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="290.128" y="1.76"/>
         <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="11.842" z="-4.539" a="290.386" y="1.218"/>
