@@ -43,3 +43,4 @@ jobs:
             **/readme*
             **/dayzps/**
             **/restart.log
+            **/Images/**
