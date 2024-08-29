@@ -1975,7 +1975,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="1.00">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />
+			<item name="Mag_FNX45_15Rnd" chance="0.5"/>
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -1983,7 +1983,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="1.00">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />
+			<item name="Mag_FNX45_15Rnd" chance="0.5"/>
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -1991,7 +1991,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="1.00">
-			<item name="Mag_SSG82_5rnd" chance="1.00" />
+			<item name="Mag_FNX45_15Rnd" chance="0.5"/>
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</cargo>
 		<attachments preset="hatsPolice" />
@@ -2000,7 +2000,7 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="1.00">
-			<item name="Mag_SSG82_5rnd" chance="1.00" />
+			<item name="Mag_FNX45_15Rnd" chance="0.5"/>
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</cargo>
 		<attachments preset="hatsPolice" />

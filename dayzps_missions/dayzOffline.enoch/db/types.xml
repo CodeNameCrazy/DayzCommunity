@@ -8328,10 +8328,10 @@
         <usage name="Industrial" />
     </type>
     <type name="Engraved1911">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -15312,10 +15312,10 @@
         <category name="food" />
     </type>
     <type name="Mag_1911_7Rnd">
-        <nominal>30</nominal>
+        <nominal>0</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
