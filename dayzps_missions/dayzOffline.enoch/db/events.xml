@@ -183,9 +183,9 @@
         </children>
     </event>
     <event name="AnimalWolf">
-        <nominal>11</nominal>
-        <min>5</min>
-        <max>7</max>
+        <nominal>35</nominal>
+        <min>20</min>
+        <max>35</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
