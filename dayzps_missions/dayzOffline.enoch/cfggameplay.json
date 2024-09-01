@@ -71,7 +71,8 @@
 			"/custom/Mine_Shop_Decor.json",
 			"/custom/Mine_Shop_Left_Wall.json",
 			"/custom/Mine_Shop_Right_Wall.json",
-			"/custom/Mine_Shop.json"
+			"/custom/Mine_Shop.json",
+			"/custom/PVP_Mine_Event.json"
 		],
 		"environmentMinTemps": [
 			-7.0,
