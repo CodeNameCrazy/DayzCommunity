@@ -1,8 +1,8 @@
 {
 	"version": 122,
 	"GeneralData": {
-		"disableBaseDamage": true,
-		"disableContainerDamage": true,
+		"disableBaseDamage": false,
+		"disableContainerDamage": false,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
@@ -75,6 +75,7 @@
 			"/custom/Sitnik_Gas_Container.json",
 			"/custom/Brena_Gas_Container.json",
 			"/custom/Polana_Gas_Container.json",
+			"/custom/Demolition_Table.json",
 			"/custom/PVP_Mine_Event.json"
 		],
 		"environmentMinTemps": [
