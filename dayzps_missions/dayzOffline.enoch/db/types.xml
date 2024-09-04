@@ -920,7 +920,7 @@
         <usage name="Hunting" />
     </type>
     <type name="AmmoBox_12gaRubberSlug_10Rnd">
-        <nominal>80</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>14</min>
