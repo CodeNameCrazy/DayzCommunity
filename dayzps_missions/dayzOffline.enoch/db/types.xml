@@ -920,7 +920,7 @@
         <usage name="Hunting" />
     </type>
     <type name="AmmoBox_12gaRubberSlug_10Rnd">
-        <nominal>80</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>14</min>
@@ -16248,6 +16248,19 @@
         <usage name="ContaminatedArea" />
         <usage name="Special" />
     </type>
+    <type name="Mag_SV98_10Rnd">
+        <nominal>36</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>22</min>
+        <quantmin>30</quantmin>
+        <quantmax>70</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+    </type>
     <type name="Magnum">
         <nominal>50</nominal>
         <lifetime>14400</lifetime>
@@ -20563,6 +20576,19 @@
         <usage name="Special" />
         <usage name="Lunapark" />
         <usage name="Underground" />
+    </type>
+    <type name="SV98">
+        <nominal>30</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>13</min>
+        <quantmin>40</quantmin>
+        <quantmax>80</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
     </type>
     <type name="SVD">
         <nominal>45</nominal>
@@ -27659,4 +27685,18 @@
         <usage name="ContaminatedArea" />
         <usage name="Special" />
     </type>
+    <type name="Vodka">
+        <nominal>30</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>90</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food" />
+        <usage name="Hunting" />
+        <usage name="Farm" />
+        <usage name="Village" />
+      </type>
 </types>
