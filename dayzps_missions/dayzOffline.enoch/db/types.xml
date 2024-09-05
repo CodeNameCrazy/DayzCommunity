@@ -18696,21 +18696,8 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
-        <usage name="Police" />
         <usage name="Medic" />
         <usage name="Firefighter" />
-        <usage name="Industrial" />
-        <usage name="Coast" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <usage name="Hunting" />
-        <usage name="Office" />
-        <usage name="Prison" />
-        <usage name="SeasonalEvent" />
-        <usage name="ContaminatedArea" />
-        <usage name="Lunapark" />
-        <usage name="Underground" />
     </type>
     <type name="ParamedicPants_Green">
         <nominal>10</nominal>
