@@ -1,0 +1,48 @@
+name: End PVP Event
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron:  '50 04 * * 5'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        # Repository name with owner. For example, actions/checkout
+        # Default: ${{ github.repository }}
+        repository: ${{ github.repository }}
+
+        # The branch, tag or SHA to checkout. When checking out the repository that
+        # triggered a workflow, this defaults to the reference or SHA for that event.
+        # Otherwise, uses the default branch.
+        ref: 'main'
+    # Runs a set of commands using the runners shell
+    - name: Push files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: ${{ secrets.FTP_URL }}
+        username: ${{ secrets.FTP_USER }}
+        password: ${{ secrets.FTP_PASS }}
+        dry-run: false
+        port: ${{ secrets.FTP_PORT }}
+        protocol: ftps
+        local-dir: ./dayzps_missions/dayzOffline.enoch/
+        server-dir: ./dayzps_missions/dayzOffline.enoch/
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          **/readme*
+          **/dayzps/**
+          **/restart.log
+          **/Images/**
