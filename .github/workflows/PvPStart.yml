@@ -3,7 +3,7 @@ name: Start PVP Event
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '50 16 * * 5'
+    - cron: '45 22 * * 6'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
