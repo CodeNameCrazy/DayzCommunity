@@ -1271,6 +1271,12 @@
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
+	<type name="ZmbM_NBC_Yellow_Halloween">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="1.00">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+	</type>
 	<!--ARMY-->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />
@@ -2147,10 +2153,10 @@
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
 	</type>
-	<type name="ZmbF_MilkMaidOld_Black">
+	<!-- <type name="ZmbF_MilkMaidOld_Black">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
-	</type>
+	</type> -->
 	<type name="ZmbF_MilkMaidOld_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
@@ -2281,6 +2287,50 @@
 	<!--Special-->
 	<type name="ZmbM_Santa">
 		<attachments preset="SantaHat" />
+	</type>
+	<type name="ZmbF_MilkMaidOld_Black">
+		<attachments chance="1.00">
+			<item name="WitchHat" chance="1.00"/>
+		</attachments>
+		<cargo chance="1.0">
+			<item name="CrookedNose" />
+		</cargo>
+		<cargo preset="foodVillage" />
+		<cargo preset="toolsVillage" />
+	</type>
+	<type name="ZmbM_Witch_Halloween">
+		<cargo preset="toolsCity" />
+		<attachments preset="hats_Witch_Halloween" />
+		
+	</type>
+	<type name="ZmbM_TinMan_Halloween">
+		<cargo preset="toolsCity" />
+		<attachments preset="hats_TinMan_Halloween" />
+		<attachments preset="vestsTinMan" />
+	</type>
+	<type name="ZmbM_Mummy">
+		<cargo preset="ContaminatedCargo" />
+		<cargo chance="0.05">
+			<item name="AntiChemInjector" chance="1.0" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="HumanSteakMeat" chance="1.0" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="BandageDressing" chance="0.5" />
+			<item name="Rag" chance="0.5" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="IodineTincture" chance="0.33" />
+			<item name="Epinephrine" chance="0.33" />
+			<item name="Morphine" chance="0.33" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="CharcoalTablets" chance="0.25" />
+			<item name="PainkillerTablets" chance="0.25" />
+			<item name="TetracyclineAntibiotics" chance="0.25" />
+			<item name="VitaminBottle" chance="0.25" />
+		</cargo>
 	</type>
 	<!--END
 	OF ZOMBIES  -->

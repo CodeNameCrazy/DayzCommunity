@@ -76,8 +76,8 @@
 			"/custom/Sitnik_Gas_Container.json",
 			"/custom/Brena_Gas_Container.json",
 			"/custom/Polana_Gas_Container.json",
-			"/custom/Give_Away.json",
-			"/custom/PVP_Mine_Event.json"
+			"/custom/October_Event.json",
+			"/custom/spookyArea1.json"
 		],
 		"environmentMinTemps": [
 			-7.0,
