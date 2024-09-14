@@ -3,7 +3,7 @@ name: End PVP Event
 # Controls when the workflow will run
 on:
   schedule:
-    - cron:  '50 04 * * 5'
+    - cron:  '45 4 * * 0'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

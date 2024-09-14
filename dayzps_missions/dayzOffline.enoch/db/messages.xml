@@ -2,30 +2,21 @@
 
 <messages>
     <message>
-        <delay>3</delay>
-        <repeat>2</repeat>
-        <onconnect>3</onconnect>
-        <text>Would appreciate feedback, start a discussion on our discord channel.</text>
-    </message>
-    <message>
         <delay>7</delay>
         <repeat>3</repeat>
         <onconnect>1</onconnect>
         <text>Welcome To Zero Gear Fear. Discord at https://discord.com/invite/JWf7Pj7gAz</text>
     </message>
     <message>
-        <delay>7</delay>
-        <repeat>3</repeat>
-        <onconnect>2</onconnect>
-        <text>I am working to create a collaborative community server, where players can have direct
-            access to the code.</text>
-    </message>
-    <message>
         <delay>8</delay>
         <repeat>3</repeat>
-        <text>The server will restart at 0000 0600 1200 1800 every day.</text>
+        <text>The server will restart at 0000 0600 1200 1800 CST every day.</text>
     </message>
-
+    <message>
+        <delay>9</delay>
+        <repeat>3</repeat>
+        <text>PVP Event 6PM - 12 AM Every Friday</text>
+    </message>
     <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 
