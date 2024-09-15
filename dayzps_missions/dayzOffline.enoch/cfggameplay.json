@@ -9,6 +9,11 @@
 	"PlayerData": {
 		"disablePersonalLight": false,
 		"spawnGearPresetFiles": [
+			"custom/loadout_Mummy.json",
+			"custom/loadout_Witch.json",
+			"custom/loadout_TinMan.json",
+			"custom/loadout_Puffer_Green.json",
+			"custom/loadout_Puffer_Orange.json",
 			"custom/loadout.json"
 		],
 		"StaminaData": {

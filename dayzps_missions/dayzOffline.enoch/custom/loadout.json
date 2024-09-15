@@ -1,5 +1,5 @@
 {
-    "spawnWeight": 1,
+    "spawnWeight": 0,
     "name": "Player",
     "characterTypes": [
         "SurvivorM_Mirek",
