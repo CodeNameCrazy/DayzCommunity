@@ -920,7 +920,7 @@
         <usage name="Hunting" />
     </type>
     <type name="AmmoBox_12gaRubberSlug_10Rnd">
-        <nominal>80</nominal>
+        <nominal>20</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>14</min>
@@ -2343,6 +2343,16 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
             crafted="1" deloot="0" />
         <category name="weapons" />
+    </type>
+    <type name="Animal_CapraHircus_Spooky">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Animal_BosTaurusF_Brown">
         <nominal>0</nominal>
@@ -17552,7 +17562,7 @@
         <usage name="Special" />
     </type>
     <type name="NBCBootsGray">
-        <nominal>22</nominal>
+        <nominal>32</nominal>
         <lifetime>43200</lifetime>
         <restock>3600</restock>
         <min>12</min>
@@ -17583,7 +17593,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCBootsYellow">
-        <nominal>24</nominal>
+        <nominal>34</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -17615,7 +17625,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCGlovesGray">
-        <nominal>22</nominal>
+        <nominal>32</nominal>
         <lifetime>43200</lifetime>
         <restock>3600</restock>
         <min>12</min>
@@ -17646,7 +17656,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCGlovesYellow">
-        <nominal>24</nominal>
+        <nominal>34</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -17678,7 +17688,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCHoodGray">
-        <nominal>22</nominal>
+        <nominal>32</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -17709,7 +17719,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCHoodYellow">
-        <nominal>24</nominal>
+        <nominal>34</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -17741,7 +17751,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCJacketGray">
-        <nominal>22</nominal>
+        <nominal>32</nominal>
         <lifetime>43200</lifetime>
         <restock>3600</restock>
         <min>10</min>
@@ -17772,7 +17782,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCJacketYellow">
-        <nominal>24</nominal>
+        <nominal>34</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -17787,7 +17797,7 @@
         <usage name="Firefighter" />
     </type>
     <type name="NBCPantsGray">
-        <nominal>22</nominal>
+        <nominal>32</nominal>
         <lifetime>43200</lifetime>
         <restock>3600</restock>
         <min>12</min>
@@ -17818,7 +17828,7 @@
         <usage name="Underground" />
     </type>
     <type name="NBCPantsYellow">
-        <nominal>24</nominal>
+        <nominal>34</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>12</min>
@@ -18640,21 +18650,8 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
-        <usage name="Police" />
         <usage name="Medic" />
         <usage name="Firefighter" />
-        <usage name="Industrial" />
-        <usage name="Coast" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <usage name="Hunting" />
-        <usage name="Office" />
-        <usage name="Prison" />
-        <usage name="SeasonalEvent" />
-        <usage name="ContaminatedArea" />
-        <usage name="Lunapark" />
-        <usage name="Underground" />
     </type>
     <type name="ParamedicJacket_Green">
         <nominal>10</nominal>
@@ -18696,21 +18693,8 @@
         <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <usage name="Military" />
-        <usage name="Police" />
         <usage name="Medic" />
         <usage name="Firefighter" />
-        <usage name="Industrial" />
-        <usage name="Coast" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <usage name="Hunting" />
-        <usage name="Office" />
-        <usage name="Prison" />
-        <usage name="SeasonalEvent" />
-        <usage name="ContaminatedArea" />
-        <usage name="Lunapark" />
-        <usage name="Underground" />
     </type>
     <type name="ParamedicPants_Green">
         <nominal>10</nominal>
@@ -20969,6 +20953,9 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Coast" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
     </type>
     <type name="Sedan_02">
         <nominal>20</nominal>
@@ -27685,4 +27672,30 @@
         <usage name="ContaminatedArea" />
         <usage name="Special" />
     </type>
+    <type name="Vodka">
+        <nominal>30</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>20</min>
+        <quantmin>90</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="food" />
+        <usage name="Hunting" />
+        <usage name="Farm" />
+        <usage name="Village" />
+      </type>
+<!-- Halloween Event types -->
+<type name="ZmbM_Mummy">
+    <nominal>0</nominal>
+    <lifetime>1800</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
 </types>
