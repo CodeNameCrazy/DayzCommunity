@@ -68,7 +68,7 @@
             "slotName": "Legs",
             "discreteItemSets": [
                 {
-                    "itemType": "LegCover_Improvised",
+                    "itemType": "LegsCover_Improvised",
                     "spawnWeight": 1,
                     "attributes": {
                         "healthMin": 0.9,
