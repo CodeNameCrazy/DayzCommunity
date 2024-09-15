@@ -1,7 +1,7 @@
 {
     "Objects": [
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 904.5908813476563,
                 244.85643005371095,
@@ -16,7 +16,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 904.690185546875,
                 244.85643005371095,
@@ -31,7 +31,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 904.7894287109375,
                 244.85643005371095,
@@ -46,7 +46,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 904.98779296875,
                 244.85643005371095,
@@ -61,7 +61,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 904.8880004882813,
                 244.8560028076172,
@@ -136,7 +136,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 902.5364379882813,
                 244.85643005371095,
@@ -151,7 +151,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 902.6353759765625,
                 244.85643005371095,
@@ -166,7 +166,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 902.7348022460938,
                 244.85643005371095,
@@ -181,7 +181,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 902.9332885742188,
                 244.85643005371095,
@@ -196,7 +196,7 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "PumpkinHelmet",
+            "name": "Pumpkin",
             "pos": [
                 902.8331909179688,
                 244.85643005371095,
