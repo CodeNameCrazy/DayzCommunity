@@ -78,7 +78,9 @@
 			"/custom/Mine_Shop_Left_Center.json",
 			"/custom/Mine_Shop_Right_Wall.json",
 			"/custom/Mine_Shop.json",
-			"/custom/PVP_Mine_Event.json"
+			"/custom/PVP_Mine_Event.json",
+			"/custom/October_Event.json",
+			"/custom/spookyArea1.json"
 		],
 		"environmentMinTemps": [
 			-7.0,
