@@ -110,6 +110,7 @@
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Black"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_Brown"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="Animal_CapraHircus_White"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_CapraHircus_Spooky"/>
         </children>
     </event>
     <event name="AnimalPig">
