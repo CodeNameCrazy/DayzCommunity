@@ -20953,6 +20953,9 @@
         <usage name="Industrial" />
         <usage name="Farm" />
         <usage name="Coast" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
     </type>
     <type name="Sedan_02">
         <nominal>20</nominal>
