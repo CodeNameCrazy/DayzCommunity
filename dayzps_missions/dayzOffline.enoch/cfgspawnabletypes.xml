@@ -75,40 +75,43 @@
 			<item name="ZagorkyChocolate" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
 		</cargo>
 		<cargo>
-			<item name="Grenada_ChemGas" chance="1.0"/>
+			<item name="Grenade_ChemGas" chance="1.0"/>
+		</cargo>
+		<cargo>
+			<item name="AmmoBox" chance="1.0"/>
 		</cargo>
 	</type>
 	<type name="SmallProtectorCase">
