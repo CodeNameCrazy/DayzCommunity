@@ -51,7 +51,6 @@
 		"lightingConfig": 0,
 		"objectSpawnersArr": [
 			"/custom/Sobatoka_Shop.json",
-			"/custom/Sitnik_Build_Table.json",
 			"/custom/Spider_Build_Table.json",
 			"/custom/Castle_Build_Table.json",
 			"/custom/Elpingato_Build_Table.json",
@@ -77,6 +76,7 @@
 			"/custom/Mine_Shop_Left_Center.json",
 			"/custom/Mine_Shop_Right_Wall.json",
 			"/custom/Mine_Shop.json",
+			"/custom/Tarnow_Build_Table.json",
 			"/custom/Sitnik_Gas_Container.json",
 			"/custom/Brena_Gas_Container.json",
 			"/custom/Polana_Gas_Container.json",
