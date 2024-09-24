@@ -1,0 +1,139 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8093.6728515625,
+                242.48284912109376,
+                8612.9921875
+            ],
+            "ypr": [
+                6.1352009773254398,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8094.791015625,
+                242.48284912109376,
+                8612.8603515625
+            ],
+            "ypr": [
+                6.135200500488281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8095.8896484375,
+                242.48284912109376,
+                8612.74609375
+            ],
+            "ypr": [
+                6.135200023651123,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8096.99072265625,
+                242.48284912109376,
+                8612.6201171875
+            ],
+            "ypr": [
+                6.135200500488281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8098.09423828125,
+                242.48284912109376,
+                8612.4970703125
+            ],
+            "ypr": [
+                6.135200023651123,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8099.19287109375,
+                242.48284912109376,
+                8612.3828125
+            ],
+            "ypr": [
+                6.135199546813965,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_foldingbed_open",
+            "pos": [
+                8100.96923828125,
+                242.0760955810547,
+                8610.896484375
+            ],
+            "ypr": [
+                93.59998321533203,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_case_bedroom_a",
+            "pos": [
+                8101.462890625,
+                242.12066650390626,
+                8610.1953125
+            ],
+            "ypr": [
+                1.7999998331069947,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "AlarmClock_Red",
+            "pos": [
+                8101.67041015625,
+                242.39730834960938,
+                8610.01953125
+            ],
+            "ypr": [
+                -63.02534103393555,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        }
+    ]
+}
