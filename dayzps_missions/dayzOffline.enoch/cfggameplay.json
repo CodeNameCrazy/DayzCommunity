@@ -81,7 +81,8 @@
 			"/custom/Brena_Gas_Container.json",
 			"/custom/Polana_Gas_Container.json",
 			"/custom/October_Event.json",
-			"/custom/spookyArea1.json"
+			"/custom/spookyArea1.json",
+			"/custom/Skull-Temp.json"
 		],
 		"environmentMinTemps": [
 			-7.0,
