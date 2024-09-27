@@ -26,7 +26,6 @@
         </group_params>
         <generator_posbubbles>
             <group name="EastTopolin" lifetime="30" counter="2">
-            <group name="EastTopolin" lifetime="30" counter="2">
                 <pos x="1136.605957" z="8039.599609" />
                 <pos x="1155.781128" z="7771.263184" />
                 <pos x="1050.992432" z="7407.925781" />
@@ -80,7 +79,6 @@
                 <pos x="6278.830566" z="11263.807617" />
                 <pos x="6426.564453" z="11494.036133" />
             </group>
-            <group name="Kolembrody" lifetime="30" counter="2">
             <group name="Kolembrody" lifetime="30" counter="2">
                 <pos x="8528.213867" z="11768.814453" />
                 <pos x="8352.768555" z="11714.275391" />
