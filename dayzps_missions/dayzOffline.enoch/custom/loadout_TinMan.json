@@ -115,6 +115,16 @@
                             "quickBarSlot": -1
                         },
                         {
+                            "itemType": "ACOGOptic_6x",
+                            "attributes": {
+                                "healthMin": 1.0,
+                                "healthMax": 1.0,
+                                "quantityMin": 1.0,
+                                "quantityMax": 1.0
+                            },
+                            "quickBarSlot": -1
+                        },
+                        {
                             "itemType": "M4_PlasticHndgrd",
                             "attributes": {
                                 "healthMin": 1.0,
@@ -179,6 +189,25 @@
             "complexChildrenTypes": [
                 {
                     "itemType": "BandageDressing",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2
+                },
+                {
+                    "itemType": "Mag_CMAG_30Rnd",
+                    "attributes": {
+                        "healthMin": 1.0,
+                        "healthMax": 1.0,
+                        "quantityMin": 1.0,
+                        "quantityMax": 1.0
+                    },
+                    "quickBarSlot": 2
+                },{
+                    "itemType": "Mag_CMAG_30Rnd",
                     "attributes": {
                         "healthMin": 1.0,
                         "healthMax": 1.0,

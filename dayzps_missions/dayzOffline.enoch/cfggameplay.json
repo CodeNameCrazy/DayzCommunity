@@ -13,7 +13,8 @@
 			"custom/loadout_Witch.json",
 			"custom/loadout_TinMan.json",
 			"custom/loadout_Puffer_Green.json",
-			"custom/loadout_Puffer_Orange.json"
+			"custom/loadout_Puffer_Orange.json",
+			"custom/loadout.json"
 		],
 		"StaminaData": {
 			"sprintStaminaModifierErc": 0.01,
@@ -51,6 +52,7 @@
 		"lightingConfig": 0,
 		"objectSpawnersArr": [
 			"/custom/Sobatoka_Shop.json",
+			"/custom/Sitnik_Build_Table.json",
 			"/custom/Spider_Build_Table.json",
 			"/custom/Castle_Build_Table.json",
 			"/custom/Elpingato_Build_Table.json",
@@ -76,15 +78,9 @@
 			"/custom/Mine_Shop_Left_Center.json",
 			"/custom/Mine_Shop_Right_Wall.json",
 			"/custom/Mine_Shop.json",
-			"/custom/Tarnow_Build_Table.json",
-			"/custom/Sitnik_Gas_Container.json",
-			"/custom/Brena_Gas_Container.json",
-			"/custom/Polana_Gas_Container.json",
+			"/custom/PVP_Mine_Event.json",
 			"/custom/October_Event.json",
-			"/custom/spookyArea1.json",
-			"/custom/Skull-Place.json",
-			"/custom/Brena_Boxing_Ring.json",
-			"/custom/Skull-Temp.json"
+			"/custom/spookyArea1.json"
 		],
 		"environmentMinTemps": [
 			-7.0,
