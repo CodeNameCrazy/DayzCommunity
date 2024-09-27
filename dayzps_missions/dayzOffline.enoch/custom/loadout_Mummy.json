@@ -136,16 +136,7 @@
                             },
                             "quickBarSlot": -1
                         },
-                        {
-                            "itemType": "ACOGOptic_6x",
-                            "attributes": {
-                                "healthMin": 1.0,
-                                "healthMax": 1.0,
-                                "quantityMin": 1.0,
-                                "quantityMax": 1.0
-                            },
-                            "quickBarSlot": -1
-                        },
+
                         {
                             "itemType": "M4_PlasticHndgrd",
                             "attributes": {
@@ -194,16 +185,7 @@
                             },
                             "quickBarSlot": -1
                         },
-                        {
-                            "itemType": "ACOGOptic_6x",
-                            "attributes": {
-                                "healthMin": 1.0,
-                                "healthMax": 1.0,
-                                "quantityMin": 1.0,
-                                "quantityMax": 1.0
-                            },
-                            "quickBarSlot": -1
-                        },
+
                         {
                             "itemType": "Mag_FAL_20Rnd",
                             "attributes": {
