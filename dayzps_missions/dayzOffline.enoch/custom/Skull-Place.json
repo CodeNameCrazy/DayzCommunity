@@ -3,84 +3,9 @@
         {
             "name": "StaticObj_Furniture_tools_racking_DZ",
             "pos": [
-                8093.6728515625,
-                242.48284912109376,
-                8612.9921875
-            ],
-            "ypr": [
-                6.1352009773254398,
-                -0.0,
-                -0.0
-            ],
-            "scale": 0.9999992847442627,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Furniture_tools_racking_DZ",
-            "pos": [
-                8094.791015625,
-                242.48284912109376,
-                8612.8603515625
-            ],
-            "ypr": [
-                6.135200500488281,
-                -0.0,
-                -0.0
-            ],
-            "scale": 0.9999991655349731,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Furniture_tools_racking_DZ",
-            "pos": [
-                8095.8896484375,
-                242.48284912109376,
-                8612.74609375
-            ],
-            "ypr": [
-                6.135200023651123,
-                -0.0,
-                -0.0
-            ],
-            "scale": 0.9999991059303284,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Furniture_tools_racking_DZ",
-            "pos": [
-                8096.99072265625,
-                242.48284912109376,
-                8612.6201171875
-            ],
-            "ypr": [
-                6.135200500488281,
-                -0.0,
-                -0.0
-            ],
-            "scale": 0.9999991655349731,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Furniture_tools_racking_DZ",
-            "pos": [
-                8098.09423828125,
-                242.48284912109376,
-                8612.4970703125
-            ],
-            "ypr": [
-                6.135200023651123,
-                -0.0,
-                -0.0
-            ],
-            "scale": 0.9999991059303284,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Furniture_tools_racking_DZ",
-            "pos": [
-                8099.19287109375,
-                242.48284912109376,
-                8612.3828125
+                8093.6533203125,
+                242.38284301757813,
+                8613.2529296875
             ],
             "ypr": [
                 6.135199546813965,
@@ -88,6 +13,81 @@
                 -0.0
             ],
             "scale": 0.9999990463256836,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8094.771484375,
+                242.38284301757813,
+                8613.12109375
+            ],
+            "ypr": [
+                6.135199069976807,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8095.8701171875,
+                242.38284301757813,
+                8613.0068359375
+            ],
+            "ypr": [
+                6.135198593139648,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8096.97119140625,
+                242.38284301757813,
+                8612.880859375
+            ],
+            "ypr": [
+                6.135199069976807,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8098.07470703125,
+                242.38284301757813,
+                8612.7578125
+            ],
+            "ypr": [
+                6.135198593139648,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking_DZ",
+            "pos": [
+                8099.17333984375,
+                242.38284301757813,
+                8612.6435546875
+            ],
+            "ypr": [
+                6.13519811630249,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
             "enableCEPersistency": 0
         },
         {

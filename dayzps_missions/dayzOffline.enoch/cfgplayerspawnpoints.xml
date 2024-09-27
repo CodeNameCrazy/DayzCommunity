@@ -25,7 +25,7 @@
             <counter>-1</counter>
         </group_params>
         <generator_posbubbles>
-            <!-- <group name="EastTopolin" lifetime="30" counter="2">
+            <group name="EastTopolin" lifetime="30" counter="2">
                 <pos x="1136.605957" z="8039.599609" />
                 <pos x="1155.781128" z="7771.263184" />
                 <pos x="1050.992432" z="7407.925781" />
@@ -41,9 +41,6 @@
                 <pos x="1478.708008" z="8025.588867" />
                 <pos x="1365.684814" z="8219.892578" />
             </group>
-            <group name="WestTopolin" lifetime="140" counter="-1">
-
-            </group> 
             <group name="Polana" lifetime="30" counter="2">
                 <pos x="3362.766602" z="487.359497"/>
                 <pos x="3349.947754" z="490.860382"/>
@@ -67,17 +64,14 @@
                 <pos
                     x="5006.519043" z="9627.448242" />
                 <pos x="5109.297363" z="9528.849609" />
-                //westgliniska <pos x="5289.757813" z="9886.451172" />
-                <pos x="5210.599609"
-                    z="10043.5966" />
+                //westgliniska 
+                <pos x="5289.757813" z="9886.451172" />
+                <pos x="5210.599609" z="10043.5966" />
                 <pos x="5246.647949" z="10226.464844" />
-                <pos x="5269.916992"
-                    z="10449.580078" />
+                <pos x="5269.916992" z="10449.580078" />
                 <pos x="5144.492188" z="10620.958008" />
             </group> -->
-            <!-- <group name="WestGliniska" lifetime="140" counter="-1">
 
-            </group> -->
             <group name="Brena" lifetime="30" counter="2">
                 <pos x="6833.701172" z="11218.008789" />
                 <pos x="6648.474121" z="11373.0908" />
@@ -85,7 +79,7 @@
                 <pos x="6278.830566" z="11263.807617" />
                 <pos x="6426.564453" z="11494.036133" />
             </group>
-            <!-- <group name="Kolembrody" lifetime="30" counter="2">
+            <group name="Kolembrody" lifetime="30" counter="2">
                 <pos x="8528.213867" z="11768.814453" />
                 <pos x="8352.768555" z="11714.275391" />
                 <pos x="8604.712891" z="12051.362305" />
@@ -132,7 +126,7 @@
                 <pos x="6395.188477" z="10409.898438" />
                 <pos x="6190.791504" z="10452.539063" />
                 <pos x="6194.955078" z="10201.043945" />
-            </group> -->
+            </group>
         </generator_posbubbles>
     </fresh>
     <hop>
