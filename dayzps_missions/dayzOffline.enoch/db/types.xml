@@ -20309,10 +20309,10 @@
         <usage name="Industrial" />
     </type>
     <type name="RemoteDetonator">
-        <nominal>20</nominal>
+        <nominal>40</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20321,6 +20321,8 @@
         <category name="tools" />
         <usage name="Industrial" />
         <value name="Unique" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
     </type>
     <type name="RemoteDetonatorReceiver">
         <nominal>20</nominal>
