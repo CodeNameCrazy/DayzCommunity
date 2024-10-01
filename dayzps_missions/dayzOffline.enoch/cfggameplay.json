@@ -1,7 +1,7 @@
 {
 	"version": 122,
 	"GeneralData": {
-		"disableBaseDamage": true,
+		"disableBaseDamage": false,
 		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
@@ -84,7 +84,7 @@
 			"/custom/Brena_Boxing_Ring.json",
 			"/custom/spookyArea1.json",
 			"/custom/Demolition_Table.json"
-			
+
 		],
 		"environmentMinTemps": [
 			-7.0,
