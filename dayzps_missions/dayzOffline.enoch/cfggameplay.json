@@ -82,7 +82,9 @@
 			"/custom/October_Event.json",
 			"/custom/spookyArea1.json",
 			"/custom/Brena_Boxing_Ring.json",
-			"/custom/spookyArea1.json"
+			"/custom/spookyArea1.json",
+			"/custom/Demolition_Table.json"
+			
 		],
 		"environmentMinTemps": [
 			-7.0,
