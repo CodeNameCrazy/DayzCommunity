@@ -1,7 +1,7 @@
 {
 	"version": 122,
 	"GeneralData": {
-		"disableBaseDamage": false,
+		"disableBaseDamage": true,
 		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
@@ -82,9 +82,7 @@
 			"/custom/October_Event.json",
 			"/custom/spookyArea1.json",
 			"/custom/Brena_Boxing_Ring.json",
-			"/custom/spookyArea1.json",
-			"/custom/Demolition_Table.json"
-
+			"/custom/spookyArea1.json"
 		],
 		"environmentMinTemps": [
 			-7.0,
