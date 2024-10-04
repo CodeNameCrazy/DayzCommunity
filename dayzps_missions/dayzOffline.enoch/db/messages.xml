@@ -17,6 +17,11 @@
         <repeat>3</repeat>
         <text>PVP Event 6PM - 12 AM Every Saturday.</text>
     </message>
+    <message>
+        <delay>10</delay>
+        <repeat>3</repeat>
+        <text>Discord Invite Link Updated, Screenshot any social media posts promoting the server and you will get server promoter role.</text>
+    </message>
     <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 
