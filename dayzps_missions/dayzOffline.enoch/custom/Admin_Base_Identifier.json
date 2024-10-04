@@ -1,0 +1,79 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_10thAnniversaryBanner_Big",
+            "pos": [
+                10767.30078125,
+                190.0,
+                10994.2001953125
+            ],
+            "ypr": [
+                44.547401428222659,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999983310699463,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_10thAnniversaryBanner_Big",
+            "pos": [
+                10751.2001953125,
+                190.0,
+                11009.900390625
+            ],
+            "ypr": [
+                44.547401428222659,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999979734420776,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_10thAnniversaryBanner_Big",
+            "pos": [
+                10783.2001953125,
+                190.0,
+                10978.099609375
+            ],
+            "ypr": [
+                44.547401428222659,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_10thAnniversaryBanner_Big",
+            "pos": [
+                10787.599609375,
+                190.0,
+                10998.7001953125
+            ],
+            "ypr": [
+                -134.68399047851563,
+                0.0,
+                0.0
+            ],
+            "scale": 0.99998939037323,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_10thAnniversaryBanner_Big",
+            "pos": [
+                10771.599609375,
+                190.0,
+                11014.7001953125
+            ],
+            "ypr": [
+                -134.39749145507813,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999895095825195,
+            "enableCEPersistency": 0
+        }
+    ]
+}
