@@ -2806,21 +2806,6 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Chainsaw",
-            "pos": [
-                6442.02587890625,
-                312.12615966796877,
-                4714.12158203125
-            ],
-            "ypr": [
-                38.244441986083987,
-                0.0,
-                0.0
-            ],
-            "scale": 0.9999999403953552,
-            "enableCEPersistency": 0
-        },
-        {
             "name": "MountainBag_Green",
             "pos": [
                 6453.599609375,
