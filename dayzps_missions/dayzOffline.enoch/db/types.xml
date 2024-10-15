@@ -2352,7 +2352,8 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
     </type>
     <type name="Animal_BosTaurusF_Brown">
         <nominal>0</nominal>
@@ -16266,10 +16267,11 @@
         <quantmin>30</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier3" />
     </type>
     <type name="Magnum">
         <nominal>50</nominal>
@@ -18177,7 +18179,7 @@
             crafted="0" deloot="0" />
     </type>
     <type name="Offroad_02">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>7</min>
@@ -20552,10 +20554,11 @@
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier3"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier3" />
     </type>
     <type name="SVD">
         <nominal>45</nominal>
@@ -20941,7 +20944,7 @@
         <usage name="Special" />
     </type>
     <type name="Sedan_02">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
         <min>10</min>
@@ -27663,62 +27666,68 @@
         <quantmin>90</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
         <category name="food" />
         <usage name="Hunting" />
         <usage name="Farm" />
         <usage name="Village" />
-      </type>
-      <type name="Boat_01_Black">
+    </type>
+    <type name="Boat_01_Black">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
     </type>
     <type name="Boat_01_Blue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>3</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
     </type>
     <type name="Boat_01_Camo">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>3</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
     </type>
     <type name="Boat_01_Orange">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>1800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
     </type>
-<!-- Halloween Event types -->
-<type name="ZmbM_Mummy">
-    <nominal>0</nominal>
-    <lifetime>1800</lifetime>
-    <restock>0</restock>
-    <min>1</min>
-    <quantmin>-1</quantmin>
-    <quantmax>-1</quantmax>
-    <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-</type>
+    <!-- Halloween Event types -->
+    <type name="ZmbM_Mummy">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+    </type>
 
 </types>
