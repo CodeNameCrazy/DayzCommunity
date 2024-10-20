@@ -808,4 +808,5 @@
 	<event name="AnimalRoeDeer" />
 	<event name="AnimalWolf" />
 	<event name="AnimalWildBoar" />
+	<event name="AnimalBear2" /> 
 </eventposdef>

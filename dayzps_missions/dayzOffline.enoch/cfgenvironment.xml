@@ -27,7 +27,7 @@
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories" />
 		</territory>
-		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
+		<territory type="Herd" name="Bear2" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories2" />
 		</territory>
 		<territory type="Herd" name="Cow" behavior="DZdomesticGroupBeh">
