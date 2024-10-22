@@ -802,13 +802,13 @@
 	<event name="InfectedPolice" />
 	<event name="InfectedFirefighter" />
 	<event name="InfectedPrisoner" />
+	<event name="BearGuard" />
 	<event name="AnimalDeer" />
 	<event name="AnimalCow" />
 	<event name="AnimalSheep" />
 	<event name="AnimalRoeDeer" />
 	<event name="AnimalWolf" />
-	<event name="AnimalWildBoar" />
-	<event name="AnimalBear2" /> 
+	<event name="AnimalWildBoar" /> 
 	<event name="AmbientFox" />
 	<event name="AmbientHare" />
 </eventposdef>

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
+    <territory color="4294947584">
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6970.723633" z="4574.202637" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6948.076172" z="4614.440918" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6949.546875" z="4591.587891" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6950.724121" z="4573.772461" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6997.212402" z="4635.217285" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="7011.107422" z="4593.458008" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6957.512207" z="4602.419922" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6940.040527" z="4599.803223" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="7010.815430" z="4587.423340" r="0"/>
+        <zone name="BearGuard" smin="1" smax="1" dmin="0" dmax="0" x="6974.310547" z="4594.629395" r="0"/>
+</territory>
     <territory color="1289674462">
         <zone name="InfectedPrisoner" smin="0" smax="0" dmin="7" dmax="10" x="5545" z="8745" r="60"/>
     </territory>
